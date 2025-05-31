@@ -1,4 +1,4 @@
-export const API_URL = 'http://localhost:5000';  
+export const API_URL = 'https://appointment-backend-6xb4.onrender.com';  
 
 import axios from 'axios';
 
